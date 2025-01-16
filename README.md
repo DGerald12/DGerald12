@@ -1,4 +1,12 @@
 ## Hi there 👋
+## What's up world, it's your boy DGerald12 🫡
+## Chocolate City Native but a southerner at heart
+## Favorite programming languages: Python, C#, then JavaScript
+## Lifelong learner 
+## Rom. 8:31 (nuff said 🙏🏾)
+
+![LetsGoTheRockGIF](https://github.com/user-attachments/assets/5a7b3ae4-54ce-47d6-9c64-e0c8b278d376)
+
 
 <!--
 **DGerald12/DGerald12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
