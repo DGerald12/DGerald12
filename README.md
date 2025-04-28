@@ -1,9 +1,16 @@
-## Hi there 👋
-## What's up world, it's your boy DGerald12 🫡
-## Chocolate City Native but a southerner at heart
-## Favorite programming languages: Python, C#, then JavaScript
-## Lifelong learner 
-## Rom. 8:31 (nuff said 🙏🏾)
+Hi, my name is Donn and I'm a Software Developer.  Having received certification in software development (Woz-U, 2019), I've gained valuable knowledge and experience in today's leading programming languages (C++, JavaScript), as well as Front-End/Back-End Development.  Currently, I'm enrolled at Spartanburg Community College (Computer Programming/Database), learning Python, C#, and Data Structures and am on pace to graduate in Summer '25.
+
+Coding skills: 
+1. C#
+2. Python
+3. HTML
+4. Full-Stack Development
+5. C++
+6. JavaScript
+
+Education:
+Spartanburg Community College
+WOZ-U Coding Bootcamp
 
 ![LetsGoTheRockGIF](https://github.com/user-attachments/assets/5a7b3ae4-54ce-47d6-9c64-e0c8b278d376)
 
