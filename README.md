@@ -5,7 +5,7 @@ I specialize in troubleshooting, system maintenance, and hardware/software deplo
 🖥️ Experienced with Active Directory, network equipment configuration, and help desk systems like ServiceNow and Jira.  
 💻 Passionate about developing reliable, user-focused IT solutions and contributing to full-stack C#/ASP.NET MVC applications.  
 
-I recently earned my **Associate of Applied Science in Computer Technology** with a focus on programming and database development.  
+I recently earned my **Associate of Applied Science in Computer Technology - Software Development**.  
 
 🚀 Key projects include rebuilding a college food pantry management system with role-based access, real-time inventory, and scheduling features using C#/ASP.NET MVC.
 
