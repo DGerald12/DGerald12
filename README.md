@@ -1,17 +1,16 @@
-Hi, my name is Donn and I'm a Software Developer.  Having received certification in software development (Woz-U, 2019), I've gained valuable knowledge and experience in today's leading programming languages (C#, Python, JavaScript), as well as Front-End/Back-End Development.  Currently, I'm enrolled at Spartanburg Community College (Computer Programming/Database), learning Python, C#, and Data Structures and am on pace to graduate in Summer '25.
+Hi, I’m **Donn Gerald**, an IT Technician and software developer based in Piedmont, SC.  
+I specialize in troubleshooting, system maintenance, and hardware/software deployment with nearly 2 years of Tier 1 and Tier 2 IT support experience.
 
-Coding skills: 
-1. C#
-2. Python
-3. ASP.NET
-4. HTML
-5. Full-Stack Development
-6. C++
-7. JavaScript
+🔧 Skilled in SQL, Python scripting, C#, C++, and Kotlin for automation and reporting.  
+🖥️ Experienced with Active Directory, network equipment configuration, and help desk systems like ServiceNow and Jira.  
+💻 Passionate about developing reliable, user-focused IT solutions and contributing to full-stack C#/ASP.NET MVC applications.  
 
-Education:
-Spartanburg Community College
-WOZ-U Coding Bootcamp
+I recently earned my **Associate of Applied Science in Computer Technology** with a focus on programming and database development.  
+
+🚀 Key projects include rebuilding a college food pantry management system with role-based access, real-time inventory, and scheduling features using C#/ASP.NET MVC.
+
+Feel free to explore my repositories and connect with me for collaboration or questions!
+
 
 ![LetsGoTheRockGIF](https://github.com/user-attachments/assets/5a7b3ae4-54ce-47d6-9c64-e0c8b278d376)
 
