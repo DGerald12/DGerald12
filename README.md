@@ -1,15 +1,47 @@
-Hi, I’m **Donn Gerald**, an IT Technician and software developer based in Piedmont, SC.  
-I specialize in troubleshooting, system maintenance, and hardware/software deployment with nearly 2 years of Tier 1 and Tier 2 IT support experience.
+# 👋 Hi, I'm Donn Gerald  
 
-🔧 Skilled in SQL, Python scripting, C#, C++, and Kotlin for automation and reporting.  
-🖥️ Experienced with Active Directory, network equipment configuration, and help desk systems like ServiceNow and Jira.  
-💻 Passionate about developing reliable, user-focused IT solutions and contributing to full-stack C#/ASP.NET MVC applications.  
+💻 **Certified Full Stack Developer** | **IT Technician** | **SQL & Python Enthusiast**  
+🚀 Always learning, building, and optimizing technology solutions  
 
-I recently earned my **Associate of Applied Science in Computer Technology - Software Development**.  
+---
 
-🚀 Key projects include rebuilding a college food pantry management system with role-based access, real-time inventory, and scheduling features using C#/ASP.NET MVC.
+## 🛠️ About Me  
+- Versatile IT Technician with nearly 2 years of Tier 1 experience and growing Tier 2 responsibilities  
+- Skilled in troubleshooting, system maintenance, and hardware/software deployment  
+- Proficient in **SQL** and **Python** for automation and reporting  
+- Experienced in **C++**, **C#**, **Kotlin**, and **ASP.NET MVC** full-stack development  
+- Passionate about learning new technologies and improving workflows  
 
-Feel free to explore my repositories and connect with me for collaboration or questions!
+---
+
+## 🔧 Tech Stack  
+**Languages & Frameworks:**  
+`Python` • `SQL` • `C#` • `C++` • `Kotlin` • `ASP.NET MVC` • `PowerShell (basic)`  
+
+**Systems & Networking:**  
+`Active Directory` • `Azure` • `Network Equipment Configuration`  
+
+**Tools:**  
+`ServiceNow` • `Jira` • `Microsoft Office` • `SharePoint` • `InSequence` • `B2B Portal`  
+
+**Hardware:**  
+`PC Setup & Repair` • `Printer Installation & Maintenance` • `Peripheral Support`  
+
+---
+
+## 📌 Projects  
+- **Food Pantry Management System** – Full-stack C#/ASP.NET MVC app with role-based access, real-time inventory, and scheduling  
+- *More coming soon!*  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/donn-gerald-5b223353)  
+[![Email](https://img.shields.io/badge/Email-dcgerald12%40gmail.com-red?logo=gmail)](mailto:dcgerald12@gmail.com)  
+
+---
+⭐ *"Code with passion, deploy with precision."*  
+
 
 
 ![LetsGoTheRockGIF](https://github.com/user-attachments/assets/5a7b3ae4-54ce-47d6-9c64-e0c8b278d376)
