@@ -22,7 +22,7 @@
 `Active Directory` • `Azure` • `Network Equipment Configuration`  
 
 **Tools:**  
-`ServiceNow` • `Jira` • `Microsoft Office` • `SharePoint` • `InSequence` • `B2B Portal`  
+`Microsoft Office` • `SharePoint` • `InSequence` • `B2B Portal`  
 
 **Hardware:**  
 `PC Setup & Repair` • `Printer Installation & Maintenance` • `Peripheral Support`  
